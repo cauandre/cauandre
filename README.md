@@ -1,6 +1,5 @@
 ## Olá! Bem vindo ao meu perfil, sou o André Carvalho.
 
-- 🔭 Hoje trabalho como Suport ...
 - 🌱 Estudando NodeJS e React ...
 - 😄 Pronouns: ele/dele
 
