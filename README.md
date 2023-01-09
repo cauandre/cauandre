@@ -3,11 +3,7 @@
 - 🌱 Estudando NodeJS e React ...
 - 😄 Pronouns: ele/dele
 
-<div align="center">
-  <a href="https://github.com/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauandre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauandre&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="André-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />       
   <img align="center" alt="André-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
